@@ -1,2 +1,2 @@
 # Rowan
-turn knob make better
+turning the knob changes the motors position
